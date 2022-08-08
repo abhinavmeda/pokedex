@@ -1,24 +1,43 @@
 import './App.css';
+import axios from 'axios';
+import { useState, useEffect } from 'react';
 
-const Item = ({ items }) => {
+const Item = ({ name, sprite }) => {
   return (
-    <div className="text-center">
-      {items}
+    <div className='group border-2 border-gray-900 border-solid rounded-lg text-center'>
+      <div className="group-hover:text-red-600">
+      {name}
+      <section className="container max-w-screen-lg mx-auto">
+        <img className="mx-auto" src={sprite} alt={"dude"}/>
+      </section>
+      </div>
     </div>
   )
 }
-const Grid = ({ dummy }) => {
+const Grid = ({ data }) => {
   return (
     <div className="grid grid-cols-8 gap-4">
-      {dummy.map(items => <Item key={items}items={items}/>)}
+      {data.map((items,i) => <Item key={i} name={items.name} sprite={items.sprite}/>)}
   </div>
   )
 } 
 function App() {
-  const sample = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  const [data, setData] = useState([])
+  
+  const loadData = () => {
+    axios
+    .get('http://localhost:3001/pokemon')
+    .then(response => {
+        setData(response.data)
+    })
+  }
+  useEffect(loadData, [])
+  
+
   return (
     <div>
-      <Grid dummy={sample}/>
+      <h1 className="text-center">Pokedex</h1>
+      <Grid data={data}/>
     </div>
   );
 }
