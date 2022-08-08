@@ -1,7 +1,7 @@
 {"pokemon":[
     {
       "name": "chikorita",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
       "type": [
         {
           "slot": 1,
@@ -18,7 +18,7 @@
       "name": "bayleef",
       "color": "green",
       "description": "The scent of\nspices comes from\naround its neck.\fSomehow, sniffing\nit makes you want\nto fight.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
       "type": [
         {
           "slot": 1,
@@ -31,7 +31,7 @@
     },
     {
       "name": "meganium",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
       "type": [
         {
           "slot": 1,
@@ -46,7 +46,7 @@
     },
     {
       "name": "cyndaquil",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
       "type": [
         {
           "slot": 1,
@@ -61,7 +61,7 @@
     },
     {
       "name": "quilava",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
       "type": [
         {
           "slot": 1,
@@ -76,7 +76,7 @@
     },
     {
       "name": "typhlosion",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
       "type": [
         {
           "slot": 1,
@@ -91,7 +91,7 @@
     },
     {
       "name": "totodile",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
       "type": [
         {
           "slot": 1,
@@ -106,7 +106,7 @@
     },
     {
       "name": "croconaw",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
       "type": [
         {
           "slot": 1,
@@ -121,7 +121,7 @@
     },
     {
       "name": "feraligatr",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
       "type": [
         {
           "slot": 1,
@@ -136,7 +136,7 @@
     },
     {
       "name": "pidgey",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
       "type": [
         {
           "slot": 1,
@@ -158,7 +158,7 @@
     },
     {
       "name": "pidgeotto",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
       "type": [
         {
           "slot": 1,
@@ -182,7 +182,7 @@
       "name": "pidgeot",
       "color": "brown",
       "description": "When hunting, it\nskims the surface\nof water at high\fspeed to pick off\nunwary prey such\nas MAGIKARP.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
       "type": [
         {
           "slot": 1,
@@ -202,7 +202,7 @@
     },
     {
       "name": "spearow",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
       "type": [
         {
           "slot": 1,
@@ -224,7 +224,7 @@
     },
     {
       "name": "fearow",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
       "type": [
         {
           "slot": 1,
@@ -248,7 +248,7 @@
       "name": "hoothoot",
       "color": "brown",
       "description": "It always stands\non one foot. It\nchanges feet so\ffast, the movement\ncan rarely be\nseen.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
       "type": [
         {
           "slot": 1,
@@ -268,7 +268,7 @@
     },
     {
       "name": "noctowl",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
       "type": [
         {
           "slot": 1,
@@ -290,7 +290,7 @@
     },
     {
       "name": "rattata",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
       "type": [
         {
           "slot": 1,
@@ -305,7 +305,7 @@
     },
     {
       "name": "raticate",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
       "type": [
         {
           "slot": 1,
@@ -320,7 +320,7 @@
     },
     {
       "name": "sentret",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
       "type": [
         {
           "slot": 1,
@@ -337,7 +337,7 @@
       "name": "furret",
       "color": "brown",
       "description": "It makes a nest to\nsuit its long and\nskinny body. The\fnest is impossible\nfor other POKéMON\nto enter.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
       "type": [
         {
           "slot": 1,
@@ -350,7 +350,7 @@
     },
     {
       "name": "pichu",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
       "type": [
         {
           "slot": 1,
@@ -365,7 +365,7 @@
     },
     {
       "name": "pikachu",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
       "type": [
         {
           "slot": 1,
@@ -382,7 +382,7 @@
       "name": "raichu",
       "color": "yellow",
       "description": "Its long tail serves as a ground to protect itself\nfrom its own high-voltage power.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
       "type": [
         {
           "slot": 1,
@@ -395,7 +395,7 @@
     },
     {
       "name": "caterpie",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
       "type": [
         {
           "slot": 1,
@@ -410,7 +410,7 @@
     },
     {
       "name": "metapod",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
       "type": [
         {
           "slot": 1,
@@ -425,7 +425,7 @@
     },
     {
       "name": "butterfree",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
       "type": [
         {
           "slot": 1,
@@ -447,7 +447,7 @@
     },
     {
       "name": "weedle",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
       "type": [
         {
           "slot": 1,
@@ -471,7 +471,7 @@
       "name": "kakuna",
       "color": "yellow",
       "description": "Almost incapable\nof moving, this\nPOKéMON can only\fharden its shell\nto protect itself\nfrom predators.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
       "type": [
         {
           "slot": 1,
@@ -491,7 +491,7 @@
     },
     {
       "name": "beedrill",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
       "type": [
         {
           "slot": 1,
@@ -513,7 +513,7 @@
     },
     {
       "name": "ledyba",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
       "type": [
         {
           "slot": 1,
@@ -535,7 +535,7 @@
     },
     {
       "name": "ledian",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
       "type": [
         {
           "slot": 1,
@@ -557,7 +557,7 @@
     },
     {
       "name": "spinarak",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
       "type": [
         {
           "slot": 1,
@@ -579,7 +579,7 @@
     },
     {
       "name": "ariados",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
       "type": [
         {
           "slot": 1,
@@ -601,7 +601,7 @@
     },
     {
       "name": "geodude",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
       "type": [
         {
           "slot": 1,
@@ -625,7 +625,7 @@
       "name": "graveler",
       "color": "brown",
       "description": "De naturaleza descuidada y libre, no le importa\ndañarse cuando baja rodando montañas.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
       "type": [
         {
           "slot": 1,
@@ -645,7 +645,7 @@
     },
     {
       "name": "golem",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
       "type": [
         {
           "slot": 1,
@@ -667,7 +667,7 @@
     },
     {
       "name": "zubat",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
       "type": [
         {
           "slot": 1,
@@ -691,7 +691,7 @@
       "name": "golbat",
       "color": "purple",
       "description": "Once it strikes,\nit will not stop\ndraining energy\ffrom the victim\neven if it gets\ntoo heavy to fly.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
       "type": [
         {
           "slot": 1,
@@ -713,7 +713,7 @@
       "name": "crobat",
       "color": "purple",
       "description": "It flies so si­\nlently through the\ndark on its four\fwings that it may\nnot be noticed\neven when nearby.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
       "type": [
         {
           "slot": 1,
@@ -735,7 +735,7 @@
       "name": "cleffa",
       "color": "pink",
       "description": "Because of its\nunusual, star-like\nsilhouette, people\fbelieve that it\ncame here on\na meteor.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
       "type": [
         {
           "slot": 1,
@@ -750,7 +750,7 @@
       "name": "clefairy",
       "color": "pink",
       "description": "Its magical and\ncute appeal has\nmany admirers.\fIt is rare and\nfound only in\ncertain areas.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
       "type": [
         {
           "slot": 1,
@@ -765,7 +765,7 @@
       "name": "clefable",
       "color": "pink",
       "description": "A timid fairy\nPOKéMON that is\nrarely seen. It\fwill run and hide\nthe moment it\nsenses people.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
       "type": [
         {
           "slot": 1,
@@ -778,7 +778,7 @@
     },
     {
       "name": "igglybuff",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
       "type": [
         {
           "slot": 1,
@@ -802,7 +802,7 @@
       "name": "jigglypuff",
       "color": "pink",
       "description": "When its huge eyes\nlight up, it sings\na mysteriously\fsoothing melody\nthat lulls its\nenemies to sleep.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
       "type": [
         {
           "slot": 1,
@@ -822,7 +822,7 @@
     },
     {
       "name": "wigglytuff",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
       "type": [
         {
           "slot": 1,
@@ -844,7 +844,7 @@
     },
     {
       "name": "togepi",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
       "type": [
         {
           "slot": 1,
@@ -861,7 +861,7 @@
       "name": "togetic",
       "color": "white",
       "description": "They say that it\nwill appear before\nkindhearted, car­\fing people and\nshower them with\nhappiness.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
       "type": [
         {
           "slot": 1,
@@ -881,7 +881,7 @@
     },
     {
       "name": "sandshrew",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
       "type": [
         {
           "slot": 1,
@@ -896,7 +896,7 @@
     },
     {
       "name": "sandslash",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
       "type": [
         {
           "slot": 1,
@@ -911,7 +911,7 @@
     },
     {
       "name": "ekans",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
       "type": [
         {
           "slot": 1,
@@ -926,7 +926,7 @@
     },
     {
       "name": "arbok",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
       "type": [
         {
           "slot": 1,
@@ -941,7 +941,7 @@
     },
     {
       "name": "dunsparce",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
       "type": [
         {
           "slot": 1,
@@ -956,7 +956,7 @@
     },
     {
       "name": "mareep",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
       "type": [
         {
           "slot": 1,
@@ -973,7 +973,7 @@
       "name": "flaaffy",
       "color": "pink",
       "description": "푹신푹신한 털은 전기를\n모으기 쉽지만 고무 같은 피부\n덕분에 자신은 마비되지 않는다.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
       "type": [
         {
           "slot": 1,
@@ -988,7 +988,7 @@
       "name": "ampharos",
       "color": "yellow",
       "description": "The tail's tip\nshines brightly\nand can be seen\ffrom far away. It\nacts as a beacon\nfor lost people.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
       "type": [
         {
           "slot": 1,
@@ -1001,7 +1001,7 @@
     },
     {
       "name": "wooper",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
       "type": [
         {
           "slot": 1,
@@ -1023,7 +1023,7 @@
     },
     {
       "name": "quagsire",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
       "type": [
         {
           "slot": 1,
@@ -1045,7 +1045,7 @@
     },
     {
       "name": "gastly",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
       "type": [
         {
           "slot": 1,
@@ -1067,7 +1067,7 @@
     },
     {
       "name": "haunter",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
       "type": [
         {
           "slot": 1,
@@ -1091,7 +1091,7 @@
       "name": "gengar",
       "color": "purple",
       "description": "Under a full moon,\nthis POKéMON\nlikes to mimic\fthe shadows of\npeople and laugh\nat their fright.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
       "type": [
         {
           "slot": 1,
@@ -1113,7 +1113,7 @@
       "name": "unown",
       "color": "black",
       "description": "Their shapes look\nlike hieroglyphs\non ancient tab­\flets. It is said\nthat the two are\nsomehow related.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
       "type": [
         {
           "slot": 1,
@@ -1126,7 +1126,7 @@
     },
     {
       "name": "onix",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
       "type": [
         {
           "slot": 1,
@@ -1148,7 +1148,7 @@
     },
     {
       "name": "steelix",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
       "type": [
         {
           "slot": 1,
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "bellsprout",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
       "type": [
         {
           "slot": 1,
@@ -1192,7 +1192,7 @@
     },
     {
       "name": "weepinbell",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
       "type": [
         {
           "slot": 1,
@@ -1214,7 +1214,7 @@
     },
     {
       "name": "victreebel",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
       "type": [
         {
           "slot": 1,
@@ -1236,7 +1236,7 @@
     },
     {
       "name": "hoppip",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
       "type": [
         {
           "slot": 1,
@@ -1258,7 +1258,7 @@
     },
     {
       "name": "skiploom",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
       "type": [
         {
           "slot": 1,
@@ -1282,7 +1282,7 @@
       "name": "jumpluff",
       "color": "blue",
       "description": "Once it catches\nthe wind, it deft­\nly controls its\fcotton-puff spores\nto float, even\naround the world.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
       "type": [
         {
           "slot": 1,
@@ -1304,7 +1304,7 @@
       "name": "paras",
       "color": "red",
       "description": "Burrows to suck\ntree roots. The\nmushrooms on its\fback grow by draw­\ning nutrients from\nthe bug host.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
       "type": [
         {
           "slot": 1,
@@ -1326,7 +1326,7 @@
       "name": "parasect",
       "color": "red",
       "description": "A host-parasite\npair in which the\nparasite mushroom\fhas taken over the\nhost bug. Prefers\ndamp places.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
       "type": [
         {
           "slot": 1,
@@ -1346,7 +1346,7 @@
     },
     {
       "name": "poliwag",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
       "type": [
         {
           "slot": 1,
@@ -1361,7 +1361,7 @@
     },
     {
       "name": "poliwhirl",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
       "type": [
         {
           "slot": 1,
@@ -1376,7 +1376,7 @@
     },
     {
       "name": "poliwrath",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
       "type": [
         {
           "slot": 1,
@@ -1398,7 +1398,7 @@
     },
     {
       "name": "politoed",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
       "type": [
         {
           "slot": 1,
@@ -1413,7 +1413,7 @@
     },
     {
       "name": "magikarp",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
       "type": [
         {
           "slot": 1,
@@ -1430,7 +1430,7 @@
       "name": "gyarados",
       "color": "blue",
       "description": "Once it begins to rampage, a\nGYARADOS will burn everything\ndown, even in a harsh storm.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
       "type": [
         {
           "slot": 1,
@@ -1450,7 +1450,7 @@
     },
     {
       "name": "goldeen",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
       "type": [
         {
           "slot": 1,
@@ -1465,7 +1465,7 @@
     },
     {
       "name": "seaking",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
       "type": [
         {
           "slot": 1,
@@ -1480,7 +1480,7 @@
     },
     {
       "name": "slowpoke",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
       "type": [
         {
           "slot": 1,
@@ -1502,7 +1502,7 @@
     },
     {
       "name": "slowbro",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
       "type": [
         {
           "slot": 1,
@@ -1526,7 +1526,7 @@
       "name": "slowking",
       "color": "pink",
       "description": "It has incredible\nintellect and in­\ntuition. Whatever\fthe situation, it\nremains calm and\ncollected.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
       "type": [
         {
           "slot": 1,
@@ -1546,7 +1546,7 @@
     },
     {
       "name": "oddish",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
       "type": [
         {
           "slot": 1,
@@ -1568,7 +1568,7 @@
     },
     {
       "name": "gloom",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
       "type": [
         {
           "slot": 1,
@@ -1590,7 +1590,7 @@
     },
     {
       "name": "vileplume",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
       "type": [
         {
           "slot": 1,
@@ -1612,7 +1612,7 @@
     },
     {
       "name": "bellossom",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
       "type": [
         {
           "slot": 1,
@@ -1629,7 +1629,7 @@
       "name": "drowzee",
       "color": "yellow",
       "description": "Puts enemies to\nsleep then eats\ntheir dreams.\fOccasionally gets\nsick from eating\nbad dreams.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
       "type": [
         {
           "slot": 1,
@@ -1642,7 +1642,7 @@
     },
     {
       "name": "hypno",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
       "type": [
         {
           "slot": 1,
@@ -1659,7 +1659,7 @@
       "name": "abra",
       "color": "brown",
       "description": "Using its ability\nto read minds, it\nwill identify\fimpending danger\nand TELEPORT to\nsafety.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
       "type": [
         {
           "slot": 1,
@@ -1672,7 +1672,7 @@
     },
     {
       "name": "kadabra",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
       "type": [
         {
           "slot": 1,
@@ -1687,7 +1687,7 @@
     },
     {
       "name": "alakazam",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
       "type": [
         {
           "slot": 1,
@@ -1702,7 +1702,7 @@
     },
     {
       "name": "ditto",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
       "type": [
         {
           "slot": 1,
@@ -1719,7 +1719,7 @@
       "name": "pineco",
       "color": "gray",
       "description": "It likes to make\nits shell thicker\nby adding layers\fof tree bark. The\nadditional weight\ndoesn't bother it.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
       "type": [
         {
           "slot": 1,
@@ -1734,7 +1734,7 @@
       "name": "forretress",
       "color": "purple",
       "description": "Its entire body is\nshielded by a\nsteel-hard shell.\fWhat lurks inside\nthe armor is a\ntotal mystery.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
       "type": [
         {
           "slot": 1,
@@ -1756,7 +1756,7 @@
       "name": "nidoran-f",
       "color": "blue",
       "description": "Although small,\nits venomous\nbarbs render this\fPOKéMON dangerous.\nThe female has\nsmaller horns.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
       "type": [
         {
           "slot": 1,
@@ -1769,7 +1769,7 @@
     },
     {
       "name": "nidorina",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
       "type": [
         {
           "slot": 1,
@@ -1786,7 +1786,7 @@
       "name": "nidoqueen",
       "color": "blue",
       "description": "Its hard scales\nprovide strong\nprotection. It\fuses its hefty\nbulk to execute\npowerful moves.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
       "type": [
         {
           "slot": 1,
@@ -1806,7 +1806,7 @@
     },
     {
       "name": "nidoran-m",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
       "type": [
         {
           "slot": 1,
@@ -1823,7 +1823,7 @@
       "name": "nidorino",
       "color": "purple",
       "description": "神經質且容易發脾氣打架。\n當體內的腎上腺素增加時，\n毒素的濃度也會提升。",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
       "type": [
         {
           "slot": 1,
@@ -1836,7 +1836,7 @@
     },
     {
       "name": "nidoking",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
       "type": [
         {
           "slot": 1,
@@ -1858,7 +1858,7 @@
     },
     {
       "name": "yanma",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
       "type": [
         {
           "slot": 1,
@@ -1882,7 +1882,7 @@
       "name": "sunkern",
       "color": "yellow",
       "description": "It may drop out of\nthe sky suddenly.\nIf attacked by a\fSPEAROW, it will\nviolently shake\nits leaves.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
       "type": [
         {
           "slot": 1,
@@ -1897,7 +1897,7 @@
       "name": "sunflora",
       "color": "yellow",
       "description": "It converts sun­\nlight into energy.\nIn the darkness\fafter sunset, it\ncloses its petals\nand becomes still.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
       "type": [
         {
           "slot": 1,
@@ -1910,7 +1910,7 @@
     },
     {
       "name": "exeggcute",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
       "type": [
         {
           "slot": 1,
@@ -1932,7 +1932,7 @@
     },
     {
       "name": "exeggutor",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
       "type": [
         {
           "slot": 1,
@@ -1954,7 +1954,7 @@
     },
     {
       "name": "sudowoodo",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
       "type": [
         {
           "slot": 1,
@@ -1971,7 +1971,7 @@
       "name": "wobbuffet",
       "color": "blue",
       "description": "Odia la luz y las sacudidas. Si le atacan, infla su\ncuerpo para aumentar su contraataque.",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
       "type": [
         {
           "slot": 1,
@@ -1984,7 +1984,7 @@
     },
     {
       "name": "venonat",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
       "type": [
         {
           "slot": 1,
@@ -2006,7 +2006,7 @@
     },
     {
       "name": "venomoth",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
       "type": [
         {
           "slot": 1,
@@ -2028,7 +2028,7 @@
     },
     {
       "name": "scyther",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
       "type": [
         {
           "slot": 1,
@@ -2050,7 +2050,7 @@
     },
     {
       "name": "scizor",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
       "type": [
         {
           "slot": 1,
@@ -2072,7 +2072,7 @@
     },
     {
       "name": "pinsir",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
       "type": [
         {
           "slot": 1,
@@ -2087,7 +2087,7 @@
     },
     {
       "name": "heracross",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
       "type": [
         {
           "slot": 1,
@@ -2109,7 +2109,7 @@
     },
     {
       "name": "koffing",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
       "type": [
         {
           "slot": 1,
@@ -2124,7 +2124,7 @@
     },
     {
       "name": "weezing",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
       "type": [
         {
           "slot": 1,
@@ -2139,7 +2139,7 @@
     },
     {
       "name": "grimer",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
       "type": [
         {
           "slot": 1,
@@ -2154,7 +2154,7 @@
     },
     {
       "name": "muk",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
       "type": [
         {
           "slot": 1,
@@ -2169,7 +2169,7 @@
     },
     {
       "name": "magnemite",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
       "type": [
         {
           "slot": 1,
@@ -2191,7 +2191,7 @@
     },
     {
       "name": "magneton",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
       "type": [
         {
           "slot": 1,
@@ -2213,7 +2213,7 @@
     },
     {
       "name": "voltorb",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
       "type": [
         {
           "slot": 1,
@@ -2228,7 +2228,7 @@
     },
     {
       "name": "electrode",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
       "type": [
         {
           "slot": 1,
@@ -2243,7 +2243,7 @@
     },
     {
       "name": "aipom",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
       "type": [
         {
           "slot": 1,
@@ -2258,7 +2258,7 @@
     },
     {
       "name": "snubbull",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
       "type": [
         {
           "slot": 1,
@@ -2273,7 +2273,7 @@
     },
     {
       "name": "granbull",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
       "type": [
         {
           "slot": 1,
@@ -2288,7 +2288,7 @@
     },
     {
       "name": "vulpix",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
       "type": [
         {
           "slot": 1,
@@ -2303,7 +2303,7 @@
     },
     {
       "name": "ninetales",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
       "type": [
         {
           "slot": 1,
@@ -2318,7 +2318,7 @@
     },
     {
       "name": "growlithe",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
       "type": [
         {
           "slot": 1,
@@ -2333,7 +2333,7 @@
     },
     {
       "name": "arcanine",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
       "type": [
         {
           "slot": 1,
@@ -2348,7 +2348,7 @@
     },
     {
       "name": "stantler",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
       "type": [
         {
           "slot": 1,
@@ -2363,7 +2363,7 @@
     },
     {
       "name": "marill",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
       "type": [
         {
           "slot": 1,
@@ -2385,7 +2385,7 @@
     },
     {
       "name": "azumarill",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
       "type": [
         {
           "slot": 1,
@@ -2407,7 +2407,7 @@
     },
     {
       "name": "diglett",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
       "type": [
         {
           "slot": 1,
@@ -2422,7 +2422,7 @@
     },
     {
       "name": "dugtrio",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
       "type": [
         {
           "slot": 1,
@@ -2437,7 +2437,7 @@
     },
     {
       "name": "mankey",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
       "type": [
         {
           "slot": 1,
@@ -2452,7 +2452,7 @@
     },
     {
       "name": "primeape",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
       "type": [
         {
           "slot": 1,
@@ -2467,7 +2467,7 @@
     },
     {
       "name": "meowth",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
       "type": [
         {
           "slot": 1,
@@ -2482,7 +2482,7 @@
     },
     {
       "name": "persian",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
       "type": [
         {
           "slot": 1,
@@ -2497,7 +2497,7 @@
     },
     {
       "name": "psyduck",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
       "type": [
         {
           "slot": 1,
@@ -2512,7 +2512,7 @@
     },
     {
       "name": "golduck",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
       "type": [
         {
           "slot": 1,
@@ -2527,7 +2527,7 @@
     },
     {
       "name": "machop",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
       "type": [
         {
           "slot": 1,
@@ -2542,7 +2542,7 @@
     },
     {
       "name": "machoke",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
       "type": [
         {
           "slot": 1,
@@ -2557,7 +2557,7 @@
     },
     {
       "name": "machamp",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
       "type": [
         {
           "slot": 1,
@@ -2572,7 +2572,7 @@
     },
     {
       "name": "tyrogue",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
       "type": [
         {
           "slot": 1,
@@ -2587,7 +2587,7 @@
     },
     {
       "name": "hitmonlee",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
       "type": [
         {
           "slot": 1,
@@ -2602,7 +2602,7 @@
     },
     {
       "name": "hitmonchan",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
       "type": [
         {
           "slot": 1,
@@ -2617,7 +2617,7 @@
     },
     {
       "name": "hitmontop",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
       "type": [
         {
           "slot": 1,
@@ -2632,7 +2632,7 @@
     },
     {
       "name": "girafarig",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
       "type": [
         {
           "slot": 1,
@@ -2654,7 +2654,7 @@
     },
     {
       "name": "tauros",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
       "type": [
         {
           "slot": 1,
@@ -2669,7 +2669,7 @@
     },
     {
       "name": "miltank",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
       "type": [
         {
           "slot": 1,
@@ -2684,7 +2684,7 @@
     },
     {
       "name": "magby",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
       "type": [
         {
           "slot": 1,
@@ -2699,7 +2699,7 @@
     },
     {
       "name": "magmar",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
       "type": [
         {
           "slot": 1,
@@ -2714,7 +2714,7 @@
     },
     {
       "name": "smoochum",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
       "type": [
         {
           "slot": 1,
@@ -2736,7 +2736,7 @@
     },
     {
       "name": "jynx",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
       "type": [
         {
           "slot": 1,
@@ -2758,7 +2758,7 @@
     },
     {
       "name": "elekid",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
       "type": [
         {
           "slot": 1,
@@ -2773,7 +2773,7 @@
     },
     {
       "name": "electabuzz",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
       "type": [
         {
           "slot": 1,
@@ -2788,7 +2788,7 @@
     },
     {
       "name": "mr-mime",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
       "type": [
         {
           "slot": 1,
@@ -2810,7 +2810,7 @@
     },
     {
       "name": "smeargle",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
       "type": [
         {
           "slot": 1,
@@ -2825,7 +2825,7 @@
     },
     {
       "name": "farfetchd",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
       "type": [
         {
           "slot": 1,
@@ -2847,7 +2847,7 @@
     },
     {
       "name": "natu",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
       "type": [
         {
           "slot": 1,
@@ -2869,7 +2869,7 @@
     },
     {
       "name": "xatu",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
       "type": [
         {
           "slot": 1,
@@ -2891,7 +2891,7 @@
     },
     {
       "name": "qwilfish",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
       "type": [
         {
           "slot": 1,
@@ -2913,7 +2913,7 @@
     },
     {
       "name": "tentacool",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
       "type": [
         {
           "slot": 1,
@@ -2935,7 +2935,7 @@
     },
     {
       "name": "tentacruel",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
       "type": [
         {
           "slot": 1,
@@ -2957,7 +2957,7 @@
     },
     {
       "name": "krabby",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
       "type": [
         {
           "slot": 1,
@@ -2972,7 +2972,7 @@
     },
     {
       "name": "kingler",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
       "type": [
         {
           "slot": 1,
@@ -2987,7 +2987,7 @@
     },
     {
       "name": "shuckle",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
       "type": [
         {
           "slot": 1,
@@ -3009,7 +3009,7 @@
     },
     {
       "name": "staryu",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
       "type": [
         {
           "slot": 1,
@@ -3024,7 +3024,7 @@
     },
     {
       "name": "starmie",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
       "type": [
         {
           "slot": 1,
@@ -3046,7 +3046,7 @@
     },
     {
       "name": "shellder",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
       "type": [
         {
           "slot": 1,
@@ -3061,7 +3061,7 @@
     },
     {
       "name": "cloyster",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
       "type": [
         {
           "slot": 1,
@@ -3083,7 +3083,7 @@
     },
     {
       "name": "corsola",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
       "type": [
         {
           "slot": 1,
@@ -3105,7 +3105,7 @@
     },
     {
       "name": "remoraid",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
       "type": [
         {
           "slot": 1,
@@ -3120,7 +3120,7 @@
     },
     {
       "name": "octillery",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
       "type": [
         {
           "slot": 1,
@@ -3135,7 +3135,7 @@
     },
     {
       "name": "chinchou",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
       "type": [
         {
           "slot": 1,
@@ -3157,7 +3157,7 @@
     },
     {
       "name": "lanturn",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
       "type": [
         {
           "slot": 1,
@@ -3179,7 +3179,7 @@
     },
     {
       "name": "seel",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
       "type": [
         {
           "slot": 1,
@@ -3194,7 +3194,7 @@
     },
     {
       "name": "dewgong",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
       "type": [
         {
           "slot": 1,
@@ -3216,7 +3216,7 @@
     },
     {
       "name": "lickitung",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
       "type": [
         {
           "slot": 1,
@@ -3231,7 +3231,7 @@
     },
     {
       "name": "tangela",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
       "type": [
         {
           "slot": 1,
@@ -3246,7 +3246,7 @@
     },
     {
       "name": "eevee",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
       "type": [
         {
           "slot": 1,
@@ -3261,7 +3261,7 @@
     },
     {
       "name": "vaporeon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
       "type": [
         {
           "slot": 1,
@@ -3276,7 +3276,7 @@
     },
     {
       "name": "jolteon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
       "type": [
         {
           "slot": 1,
@@ -3291,7 +3291,7 @@
     },
     {
       "name": "flareon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
       "type": [
         {
           "slot": 1,
@@ -3306,7 +3306,7 @@
     },
     {
       "name": "espeon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
       "type": [
         {
           "slot": 1,
@@ -3321,7 +3321,7 @@
     },
     {
       "name": "umbreon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
       "type": [
         {
           "slot": 1,
@@ -3336,7 +3336,7 @@
     },
     {
       "name": "horsea",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
       "type": [
         {
           "slot": 1,
@@ -3351,7 +3351,7 @@
     },
     {
       "name": "seadra",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
       "type": [
         {
           "slot": 1,
@@ -3366,7 +3366,7 @@
     },
     {
       "name": "kingdra",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
       "type": [
         {
           "slot": 1,
@@ -3388,7 +3388,7 @@
     },
     {
       "name": "gligar",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
       "type": [
         {
           "slot": 1,
@@ -3410,7 +3410,7 @@
     },
     {
       "name": "delibird",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
       "type": [
         {
           "slot": 1,
@@ -3432,7 +3432,7 @@
     },
     {
       "name": "swinub",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
       "type": [
         {
           "slot": 1,
@@ -3454,7 +3454,7 @@
     },
     {
       "name": "piloswine",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
       "type": [
         {
           "slot": 1,
@@ -3476,7 +3476,7 @@
     },
     {
       "name": "teddiursa",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
       "type": [
         {
           "slot": 1,
@@ -3491,7 +3491,7 @@
     },
     {
       "name": "ursaring",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
       "type": [
         {
           "slot": 1,
@@ -3506,7 +3506,7 @@
     },
     {
       "name": "phanpy",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
       "type": [
         {
           "slot": 1,
@@ -3521,7 +3521,7 @@
     },
     {
       "name": "donphan",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
       "type": [
         {
           "slot": 1,
@@ -3536,7 +3536,7 @@
     },
     {
       "name": "mantine",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
       "type": [
         {
           "slot": 1,
@@ -3558,7 +3558,7 @@
     },
     {
       "name": "skarmory",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
       "type": [
         {
           "slot": 1,
@@ -3580,7 +3580,7 @@
     },
     {
       "name": "doduo",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
       "type": [
         {
           "slot": 1,
@@ -3602,7 +3602,7 @@
     },
     {
       "name": "dodrio",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
       "type": [
         {
           "slot": 1,
@@ -3624,7 +3624,7 @@
     },
     {
       "name": "ponyta",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
       "type": [
         {
           "slot": 1,
@@ -3639,7 +3639,7 @@
     },
     {
       "name": "rapidash",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
       "type": [
         {
           "slot": 1,
@@ -3654,7 +3654,7 @@
     },
     {
       "name": "cubone",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
       "type": [
         {
           "slot": 1,
@@ -3669,7 +3669,7 @@
     },
     {
       "name": "marowak",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
       "type": [
         {
           "slot": 1,
@@ -3684,7 +3684,7 @@
     },
     {
       "name": "kangaskhan",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
       "type": [
         {
           "slot": 1,
@@ -3699,7 +3699,7 @@
     },
     {
       "name": "rhyhorn",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
       "type": [
         {
           "slot": 1,
@@ -3721,7 +3721,7 @@
     },
     {
       "name": "rhydon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
       "type": [
         {
           "slot": 1,
@@ -3743,7 +3743,7 @@
     },
     {
       "name": "murkrow",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
       "type": [
         {
           "slot": 1,
@@ -3765,7 +3765,7 @@
     },
     {
       "name": "houndour",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
       "type": [
         {
           "slot": 1,
@@ -3787,7 +3787,7 @@
     },
     {
       "name": "houndoom",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
       "type": [
         {
           "slot": 1,
@@ -3809,7 +3809,7 @@
     },
     {
       "name": "slugma",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
       "type": [
         {
           "slot": 1,
@@ -3824,7 +3824,7 @@
     },
     {
       "name": "magcargo",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
       "type": [
         {
           "slot": 1,
@@ -3846,7 +3846,7 @@
     },
     {
       "name": "sneasel",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
       "type": [
         {
           "slot": 1,
@@ -3868,7 +3868,7 @@
     },
     {
       "name": "misdreavus",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
       "type": [
         {
           "slot": 1,
@@ -3883,7 +3883,7 @@
     },
     {
       "name": "porygon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
       "type": [
         {
           "slot": 1,
@@ -3898,7 +3898,7 @@
     },
     {
       "name": "porygon2",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
       "type": [
         {
           "slot": 1,
@@ -3913,7 +3913,7 @@
     },
     {
       "name": "chansey",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
       "type": [
         {
           "slot": 1,
@@ -3928,7 +3928,7 @@
     },
     {
       "name": "blissey",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
       "type": [
         {
           "slot": 1,
@@ -3943,7 +3943,7 @@
     },
     {
       "name": "lapras",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
       "type": [
         {
           "slot": 1,
@@ -3965,7 +3965,7 @@
     },
     {
       "name": "omanyte",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
       "type": [
         {
           "slot": 1,
@@ -3987,7 +3987,7 @@
     },
     {
       "name": "omastar",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
       "type": [
         {
           "slot": 1,
@@ -4009,7 +4009,7 @@
     },
     {
       "name": "kabuto",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
       "type": [
         {
           "slot": 1,
@@ -4031,7 +4031,7 @@
     },
     {
       "name": "kabutops",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
       "type": [
         {
           "slot": 1,
@@ -4053,7 +4053,7 @@
     },
     {
       "name": "aerodactyl",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
       "type": [
         {
           "slot": 1,
@@ -4075,7 +4075,7 @@
     },
     {
       "name": "snorlax",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
       "type": [
         {
           "slot": 1,
@@ -4090,7 +4090,7 @@
     },
     {
       "name": "bulbasaur",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
       "type": [
         {
           "slot": 1,
@@ -4112,7 +4112,7 @@
     },
     {
       "name": "ivysaur",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
       "type": [
         {
           "slot": 1,
@@ -4134,7 +4134,7 @@
     },
     {
       "name": "venusaur",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
       "type": [
         {
           "slot": 1,
@@ -4156,7 +4156,7 @@
     },
     {
       "name": "charmander",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
       "type": [
         {
           "slot": 1,
@@ -4171,7 +4171,7 @@
     },
     {
       "name": "charmeleon",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
       "type": [
         {
           "slot": 1,
@@ -4186,7 +4186,7 @@
     },
     {
       "name": "charizard",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
       "type": [
         {
           "slot": 1,
@@ -4208,7 +4208,7 @@
     },
     {
       "name": "squirtle",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
       "type": [
         {
           "slot": 1,
@@ -4223,7 +4223,7 @@
     },
     {
       "name": "wartortle",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
       "type": [
         {
           "slot": 1,
@@ -4238,7 +4238,7 @@
     },
     {
       "name": "blastoise",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
       "type": [
         {
           "slot": 1,
@@ -4253,7 +4253,7 @@
     },
     {
       "name": "articuno",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
       "type": [
         {
           "slot": 1,
@@ -4275,7 +4275,7 @@
     },
     {
       "name": "zapdos",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
       "type": [
         {
           "slot": 1,
@@ -4297,7 +4297,7 @@
     },
     {
       "name": "moltres",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
       "type": [
         {
           "slot": 1,
@@ -4319,7 +4319,7 @@
     },
     {
       "name": "raikou",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
       "type": [
         {
           "slot": 1,
@@ -4334,7 +4334,7 @@
     },
     {
       "name": "entei",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
       "type": [
         {
           "slot": 1,
@@ -4349,7 +4349,7 @@
     },
     {
       "name": "suicune",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
       "type": [
         {
           "slot": 1,
@@ -4364,7 +4364,7 @@
     },
     {
       "name": "dratini",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
       "type": [
         {
           "slot": 1,
@@ -4379,7 +4379,7 @@
     },
     {
       "name": "dragonair",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
       "type": [
         {
           "slot": 1,
@@ -4394,7 +4394,7 @@
     },
     {
       "name": "dragonite",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
       "type": [
         {
           "slot": 1,
@@ -4416,7 +4416,7 @@
     },
     {
       "name": "larvitar",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
       "type": [
         {
           "slot": 1,
@@ -4438,7 +4438,7 @@
     },
     {
       "name": "pupitar",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
       "type": [
         {
           "slot": 1,
@@ -4460,7 +4460,7 @@
     },
     {
       "name": "tyranitar",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
       "type": [
         {
           "slot": 1,
@@ -4482,7 +4482,7 @@
     },
     {
       "name": "lugia",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
       "type": [
         {
           "slot": 1,
@@ -4504,7 +4504,7 @@
     },
     {
       "name": "ho-oh",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
       "type": [
         {
           "slot": 1,
@@ -4526,7 +4526,7 @@
     },
     {
       "name": "mewtwo",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
       "type": [
         {
           "slot": 1,
@@ -4541,7 +4541,7 @@
     },
     {
       "name": "mew",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
       "type": [
         {
           "slot": 1,
@@ -4556,7 +4556,7 @@
     },
     {
       "name": "celebi",
-      "spirte": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+      "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
       "type": [
         {
           "slot": 1,
